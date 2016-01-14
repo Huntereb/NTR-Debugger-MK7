@@ -15,7 +15,7 @@ Items can be given with this tab. Item indexes can be found under Reference > It
 
 Once a race starts, click "Find Map and Offset", and be sure to check "Mirror" if the track is in Mirror Mode. If it fails to find an offset, mess around with Options > Timer Setting. If it still fails even after that, make sure you're using a 1.1 copy of MK7!
 
-Once an offset has been found successfuly, you can click "Generate code" (Or press the Space Bar) to create your item code, or check "Auto-Enter" to automatically enter the code. Remember that you need to find the offset again every time you start a new race/battle!
+Once an offset has been found successfully, you can click "Generate code" (Or press the Spacebar) to create your item code, or check "Auto-Enter" to automatically enter the code. Remember that you need to find the offset again every time you start a new race/battle!
 
 Online cheating is possible with this, but you need to mess with "Total Players" and "Player number".
 
@@ -31,11 +31,11 @@ The "Points" table can be used to set how many Balloons/Coins you have. Checking
 ###Race Stats
 Race-specific things can be set with this tab. As with the previous tab, you must find your Map and Offset before applying most of these.
 
-The "Points" table is relevent in Grand Prix and Communities. It will set how many points you have. The checkbox is self explanatory.
+The "Points" table is relevant in Grand Prix and Communities. It will set how many points you have. The checkbox is self explanatory.
 
 The "No Disconnect" table can be used to prevent disconnections online. However, you will always get last place. The checkbox is, once again, self explanatory.
 
-The "Laps" table can be used to set which lap you're on, as well as finish a race imidiately after passing the finish line the first time.
+The "Laps" table can be used to set which lap you're on, as well as finish a race immediately after passing the finish line the first time.
 
 The "Coins" table sets how many coins you have in-game.
 
@@ -55,3 +55,4 @@ I am NOT responsible if you get your console banned! It's very likely to happen 
 Thanks to MrEvil and Fishguy6564 for a number of cheats and ideas included in this program. Oh, and Huntereb. I love him. <3
 
 By the way, this code was made back when I was an idiot, and didn't know how to program for the life of me. The source is INCREDIBLY disgusting, but it's there... Feel free to port some of this stuff to other projects, or send me a pull request if you wanna help me make this code look nicer. I'm not touching it anymore...
+
