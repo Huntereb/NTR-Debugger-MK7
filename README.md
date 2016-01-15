@@ -1,5 +1,6 @@
 # NTR Debugger for MK7
 A Trainer for USA MK7 v1.1 using NTR
+Support: https://huntereb.xyz/chan/b/res/56.html
 
 ---
 ##Connecting
