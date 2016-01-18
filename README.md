@@ -5,7 +5,7 @@ Support: https://huntereb.xyz/chan/b/res/56.html
 
 ---
 ##Connecting
-Before anything, you need to start NTR's debugger on your system (Link below), and obtain the local IP address of your 3DS.
+Before anything, you need to start NTR's debugger on your system (https://github.com/44670/BootNTR), and obtain the local IP address of your 3DS.
 Once that's done, start up the application, read the message, and continue. You need to connect to your 3DS. Go to Tools > Connect, input your IP address, and click OK. It may take a few tries, if it doesn't, restart your 3DS.
 
 If it succeeds, you'll see "Server connected." in the console window. After that, you need to find the Process ID of Mario Kart 7. Type "listprocess()" into the command box, and press enter. You should see a big list of processes appear, and one with the process name "MarioKar". Just put the number behind "0x000000" into the "Process ID" box, and you're good to go!
